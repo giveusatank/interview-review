@@ -11,4 +11,10 @@ public class GitSyllabus {
         System.out.println("7777777777");
         System.out.println("8888888888");
     }
+
+    public void fixBug(){
+        System.out.println("11111111111");
+        System.out.println("22222222222");
+        System.out.println("33333333333");
+    }
 }
